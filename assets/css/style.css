@@ -478,7 +478,7 @@ div#preloader {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #3ec1d5;
+  color: #3de014;
 }
 
 .navbar-mobile .getstarted,
@@ -513,7 +513,7 @@ div#preloader {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #3ec1d5;
+  color: #0ed225;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
